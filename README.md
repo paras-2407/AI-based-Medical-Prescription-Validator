@@ -1,4 +1,4 @@
-# 💊 Smart Prescription Validator
+# 💊 Medical Prescription Validator
 
 An end-to-end NLP-based system that analyzes scanned medical prescriptions using OCR, validates medication safety using clinical datasets (RxNorm, openFDA, DailyMed), and generates human-readable reports using a fine-tuned Flan-T5-small model.
 
